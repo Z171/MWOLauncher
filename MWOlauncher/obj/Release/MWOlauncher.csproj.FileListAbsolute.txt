@@ -1,0 +1,6 @@
+C:\Users\matteo\Documents\MWOlauncher\MWOlauncher\bin\Release\MWOlauncher.exe.config
+C:\Users\matteo\Documents\MWOlauncher\MWOlauncher\bin\Release\MWOlauncher.exe
+C:\Users\matteo\Documents\MWOlauncher\MWOlauncher\obj\Release\MWOlauncher.csprojResolveAssemblyReference.cache
+C:\Users\matteo\Documents\MWOlauncher\MWOlauncher\obj\Release\MWOlauncher.MainForm.resources
+C:\Users\matteo\Documents\MWOlauncher\MWOlauncher\obj\Release\MWOlauncher.csproj.GenerateResource.Cache
+C:\Users\matteo\Documents\MWOlauncher\MWOlauncher\obj\Release\MWOlauncher.exe
