@@ -6,3 +6,17 @@ C:\Users\matteo\Documents\MWOlauncher\MWOlauncher\obj\Debug\MWOlauncher.MainForm
 C:\Users\matteo\Documents\MWOlauncher\MWOlauncher\obj\Debug\MWOlauncher.csproj.GenerateResource.Cache
 C:\Users\matteo\Documents\MWOlauncher\MWOlauncher\obj\Debug\MWOlauncher.exe
 C:\Users\matteo\Documents\MWOlauncher\MWOlauncher\obj\Debug\MWOlauncher.pdb
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\bin\Debug\MWOlauncher.exe.config
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\Debug\MWOlauncher.exe
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\Debug\MWOlauncher.pdb
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\bin\Debug\MWOlauncher.exe
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\bin\Debug\MWOlauncher.pdb
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\Debug\MWOlauncher.csprojResolveAssemblyReference.cache
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\Debug\MWOlauncher.MainForm.resources
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\Debug\MWOlauncher.csproj.GenerateResource.Cache
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\Debug\MWOlauncher.Properties.Resources.resources
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\Debug\MWOlauncher.csproj.ResolveComReference.cache
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\bin\Debug\en\MWOlauncher.resources.dll
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\Debug\MWOlauncher.MainForm.en.resources
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\Debug\en\MWOlauncher.resources.dll

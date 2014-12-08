@@ -1,0 +1,14 @@
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\bin\x86\Debug\MWOlauncher.exe.config
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\x86\Debug\MWOlauncher.csproj.ResolveComReference.cache
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\bin\x86\Debug\MWOlauncher.exe
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\bin\x86\Debug\MWOlauncher.pdb
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\x86\Debug\MWOlauncher.MainForm.resources
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\x86\Debug\MWOlauncher.Properties.Resources.resources
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\x86\Debug\MWOlauncher.csproj.GenerateResource.Cache
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\x86\Debug\MWOlauncher.exe
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\x86\Debug\MWOlauncher.pdb
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\x86\Debug\MWOlauncher.csprojResolveAssemblyReference.cache
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\bin\x86\Debug\en\MWOlauncher.resources.dll
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\x86\Debug\MWOlauncher.MainForm.en.resources
+D:\ITMakers\MWO\Launcher\MWOlauncher\MWOlauncher\obj\x86\Debug\en\MWOlauncher.resources.dll
